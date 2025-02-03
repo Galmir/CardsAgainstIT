@@ -1,0 +1,13 @@
+link=1dHULVWZ5D0cqgZbl6b5y4KdDCl4sUbuN6guBbOgeH6g!questions
+
+UNIT = MM
+PAGE=25,"35 ",PORTRAIT,,#000000,,#FFFFFF
+BORDER=RECTANGLE,#FFFFFF,3
+MARGINS= 5,5,5,5
+
+VISUAL=, 10, 10
+
+HTMLFONT=main_text_font,arial,20,,#FFFFFF,CENTER
+HTMLMARGINS=main_text_font,0,0,0,0,CENTER
+HTMLTEXT=1-{(eng)},[eng],5%,5%,90%,90%,#000000,0,F,100,main_text_font
+ENDVISUAL
