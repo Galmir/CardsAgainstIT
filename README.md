@@ -6,5 +6,5 @@ an open-source repo for custom cards
  * open one file at a time (e.g. CAI_questions.txt)
  * press Validate deck
  * press build deck
- * from there you can export the cards in any visual format or pfd, ready to print and play.
+ * from there you can export the cards in any visual format or PDF, ready to print and play.
  * to add / change the cards just exit the .xlsx file.
